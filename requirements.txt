@@ -54,7 +54,7 @@ googleapis-common-protos==1.51.0
 gyp==0.1
 helpdev==0.6.10
 html5lib==1.0.1
-httplib2==0.17.0
+httplib2==0.18.0
 idna==2.8
 imagesize==1.2.0
 impacket==0.9.20
